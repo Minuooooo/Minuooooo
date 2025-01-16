@@ -32,8 +32,12 @@
 
 📞 **Contact**
 <div>
-  <a href="mailto:mmw7741@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mminuoo"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:mmw7741@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mminuoo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </div>
 <br>
 
