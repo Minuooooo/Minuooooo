@@ -1,4 +1,4 @@
-🛠️ **Skill**
+🛠️ **SKILL**
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
@@ -24,16 +24,16 @@
 </div>
 <br>
 
-📌 **Project**
+📌 **PROJECT**
 - [SmallTalk](https://github.com/Minuooooo/smalltalk) - 익명 채팅 서비스 (2024)
 - [Greeny](https://github.com/Minuooooo/greeny) - 친환경 정보 제공 서비스 (2023)
 - [Teamguu](https://github.com/TeamGuu/teamguu-backend) - 아마추어 축구 팀 매칭 서비스 (2023)
 <br>
 
-📞 **Contact**
+🏃‍♂️‍➡️ **TRACE**
 <div>
-  <a href="https://www.instagram.com/mminuoo">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://obtainable-pocket-5c3.notion.site/BACK-END-17d115a8b0e2804ea790f4a12ab0f89e?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-006D41?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </div>
 <br>
